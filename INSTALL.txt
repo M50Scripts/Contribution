@@ -1,0 +1,17 @@
+iNSTALLATiON
+
+* Make sure you have the latest wikiGenerator version
+
+* Extract the files using a File Extractor (eg: winRaR)
+
+* Open up the config.php file (inc/config.php) and edit to match your desired preferences
+
+* Small changes can be made in form_inc.php
+
+*&& Custom Footer can be added in footer.php
+
+    To remove the copyright footer of wikiGenerator, please see: the License File (/files/LICENSE.txt)
+    & that's it! your all done!
+
+    Make sure everything is clean in the config.php before uploading it to your server.
+    generate_wiki.php doesn't need editing, it's already designed for the generator to work properly, so leave UN-edited, if you will.
